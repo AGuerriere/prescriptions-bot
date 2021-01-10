@@ -14,7 +14,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 def order_prescriptions():
     #now we tell python where to find chromedriver
-    PATH = 'path'#add instead of path the path of the chrome webdriver you donwloaded
+    PATH = 'path'#Replace PATH with the local path of the chrome webdriver you donwloaded
     driver = webdriver.Chrome(PATH)
 
     #This opens the target website, instead of 'url' you need to use the url of the website that you want to control
