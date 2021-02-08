@@ -1,3 +1,5 @@
+## Python and Selenium script to automate how I order my prescriptions
+
 This is a simple script I created using Python and Selenium, for my own use to automate my repeat prescriptions order from my GP website.
 This program would not work for anybody else as it is tailored only for my GP website and my prescriptions, but I hope it can be a guidline and help someone else automate their own personal tasks.
 Of course I have deleted all my personal credentials and the actual website I control through this script.
