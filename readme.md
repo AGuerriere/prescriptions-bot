@@ -6,9 +6,9 @@ Of course I have deleted all my personal credentials and the actual website I co
 
 
 Requirements:
-* Chrome(at moment of writing this scirpt, Firefox webdrivers do not work properly, but that might change in the future)
+* Chrome
 * Chrome webdriver from https://chromedriver.chromium.org/downloads. 
     Then you need to extract the file and move it to a location that is easy to access, 
-    and paste that location in the PATH variable in the program. You also need to install selenium with $pip install selenium  
-* Selenium > pip install selenium
+    and paste that location in the PATH variable in the program.
+* Selenium > $pip install selenium
 
